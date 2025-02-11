@@ -13,7 +13,7 @@
 
 1. Clona este repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/JoseFornesJimenez/Mascota-RUMMI
     ```
 2. Abre el proyecto en tu entorno de desarrollo preferido.
 3. Asegúrate de tener instaladas las siguientes bibliotecas:
